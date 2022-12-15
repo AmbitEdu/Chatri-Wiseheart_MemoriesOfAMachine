@@ -1,0 +1,15 @@
+# subject_name start_line_number_(inclusive) end_line_number_(inclusive)
+# note that these line numbers are indexed from 1, not from 0
+#
+amelia_e_barr 201 18735
+annie_besant 157 8747
+booker_t_washington 346 7037
+catherine_helen_spence 81 6198
+clifford_whittingham_beers 69 6289
+daisy 210 7705
+ida_m_tarbell 188 13984
+margaret_sanger 225 19263
+mark_twain 57 10977
+mother_jones 251 6222
+upton_sinclair 187 12611
+william_h_davies 447 7926
